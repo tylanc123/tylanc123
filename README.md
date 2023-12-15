@@ -5,7 +5,6 @@
 
 
 <h1>Hi, I'm Tylan!</h1>
-<h2>Cybersecurity Professional</h2>
 
 <!-- Description -->
 <p>
