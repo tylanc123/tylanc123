@@ -1,4 +1,6 @@
-![image](https://github.com/tylanc123/tylanc123/assets/153654738/7aece6fd-f414-4d76-b019-d9af1323d7d6)
+![Github Banner](https://github.com/tylanc123/tylanc123/assets/153654738/37d01719-310a-4690-97ed-b93f049e7aa4)
+
+
 
 
 
