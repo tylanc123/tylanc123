@@ -17,8 +17,8 @@
   - [Apply filters to SQL queries](https://github.com/tylanc123/SQL)
 - <b>Bash Shell</b>
   - [File Permissions in Bash Shell](https://github.com/tylanc123/Bash-Shell)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Internal Audit Project</b>
+  - [Axion Technology (IT Audit)](https://github.com/tylanc123/Internal-Audit/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
 
