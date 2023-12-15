@@ -1,8 +1,15 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/tylanc123">Programmer</a>, <a href="https://www.linkedin.com/in/tylan-crowley/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Tylan!</h1>
+<h2>Cybersecurity Professional</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<!-- Description -->
+<p>
+    I'm a dedicated cybersecurity professional passionate about safeguarding our digital world from the threats posed by malicious actors. With a firm belief in the importance of secure systems, I strive to fortify online environments and contribute to a safer cyberspace.
+</p>
 
-- <b>Azure / Cloud Projects/b>
+
+<h3>👨‍💻 Cybersecurity Projects:</h3>
+
+- <b>Azure / Cloud Projects
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/tylanc123/Cloud-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
