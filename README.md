@@ -1,15 +1,20 @@
 ![Github Banner](https://github.com/tylanc123/tylanc123/assets/153654738/37d01719-310a-4690-97ed-b93f049e7aa4)
 
 
-
-
+</head>
+<body>
 
 <h1>Hi, I'm Tylan!</h1>
+ <p>I'm a dedicated cybersecurity professional passionate about safeguarding our digital world from the threats posed by malicious actors. With a firm belief in the importance of secure systems, I strive to fortify online environments and contribute to a safer cyberspace.</p>
 
-<!-- Description -->
-<p>
-    I'm a dedicated cybersecurity professional passionate about safeguarding our digital world from the threats posed by malicious actors. With a firm belief in the importance of secure systems, I strive to fortify online environments and contribute to a safer cyberspace.
-</p>
+<h2>Certifications</h2>
+<hr> <!-- Horizontal line -->
+
+<ul>
+  <li>CompTIA Security+</li>
+  <li>Google Cybersecurity Professional Certificate</li>
+</ul>
+<hr> <!-- Horizontal line -->
 
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
