@@ -13,6 +13,7 @@
 <ul>
   <li>CompTIA Security+</li>
   <li>Google Cybersecurity Professional Certificate</li>
+ <li> Cybersecurity Analyst (LeveldCareers</li>
 </ul>
 <hr> <!-- Horizontal line -->
 
