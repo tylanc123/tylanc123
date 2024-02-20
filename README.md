@@ -1,4 +1,5 @@
-![Github Banner](https://github.com/tylanc123/tylanc123/assets/153654738/37d01719-310a-4690-97ed-b93f049e7aa4)
+![Banner](https://github.com/tylanc123/tylanc123/assets/153654738/050d2628-3347-40c8-9463-d23570aca5c0)
+
 
 
 </head>
@@ -13,7 +14,8 @@
 <ul>
   <li>CompTIA Security+</li>
   <li>Google Cybersecurity Professional Certificate</li>
- <li> Cybersecurity Analyst (LeveldCareers)</li>
+ <li> Splunk Core Certified User </li>
+  <li> Qualys Vulernabltiy Management Analyst</li>
 </ul>
 <hr> <!-- Horizontal line -->
 
