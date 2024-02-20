@@ -15,7 +15,7 @@
   <li>CompTIA Security+</li>
   <li>Google Cybersecurity Professional Certificate</li>
  <li> Splunk Core Certified User </li>
-  <li> Qualys Vulnerability Management Analyst</li>
+  <li> Qualys Vulnerability Management Specialist</li>
 </ul>
 <hr> <!-- Horizontal line -->
 
